@@ -94,7 +94,7 @@ Your theme is set up just like a normal Jekyll site! To test your theme, run `bu
 
 When this theme is released, only the files in `_layouts`, `_includes`, and `_sass` tracked with Git will be included in the gem.
 
-## License
+## License 
 
 The theme is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
 
